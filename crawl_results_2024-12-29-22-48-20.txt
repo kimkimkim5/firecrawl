@@ -1,0 +1,2555 @@
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+![歩く人物](https://static.wixstatic.com/media/8168415addfc4b1aa33b7e8f82a30dbb.jpg/v1/fill/w_1920,h_804,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8168415addfc4b1aa33b7e8f82a30dbb.jpg)
+
+# サービス紹介
+
+###### 中小企業や個人事業主向けのITサポートサービス
+
+## Qiita投稿記事
+
+![YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_267,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.webp)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+先日、 YOLO を使用して10ファイルほどの画像を元にアノテーションファイルを作成し、自分で「重み付けファイル」を生成しました。その後、「学習」「検証」、そして最終的に「検出」を実施しましたが、期待していたような結果を得ることができませんでした。その主な原因として、...
+
+6
+
+2 いいね！ いいね！されていない記事2
+
+![Replitで10分でWebシステムを作ろう](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_267,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.webp)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+冒頭のカレンダーですが、私はほぼ毎日ジョギングをしており、その履歴を紙のカレンダーに記録しています。「走」はジョギングをした日を表し、その横に記載している数字は体重です。「飲」は夜にお酒を飲んだこと、「筋」は筋トレをしたこと、「外」は外食をしたことをそれぞれ示しています。外...
+
+3
+
+1 いいね！ いいね！されていない記事1
+
+![水入り？空っぽ？コップの中身をYOLOが画像判定！](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_266,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.webp)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+皆さん、突然ですが「このコップ、水が入っているのかな？」と考えたことはありませんか？私はといえば、家にいるときや作業中、ふと目の前のコップを見て「水が入っているか、空なのか」が気になることがあります。そして、あるときQiitaの記事を読んでいて思いつきました。...
+
+7
+
+1 いいね！ いいね！されていない記事1
+
+![](https://static.wixstatic.com/media/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.webp)![ディスプレイ切替で毎回ウィンドウが大暴れ!? そのイライラを一発解消する方法！](https://static.wixstatic.com/media/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.webp)
+
+[ディスプレイ切替で毎回ウィンドウが大暴れ!? そのイライラを一発解消する方法！](https://www.npwitys.com/post/ディスプレイ切替で毎回ウィンドウが大暴れ-そのイライラを一発解消する方法！)
+
+現在の職場では、私は軽量なモバイルPCを持ち歩き、打ち合わせなどに参加しています。モバイルPCは持ち運びに便利な反面、ディスプレイが小さく、複数のウィンドウを開くと画面がすぐにいっぱいになり、ウィンドウが重なることも多々あります。...
+
+1
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_1a2b49c01be641a5ba2df0116bd8826a~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_1a2b49c01be641a5ba2df0116bd8826a~mv2.webp)![会社の資料を今すぐDifyで要約しよう！](https://static.wixstatic.com/media/2c388f_1a2b49c01be641a5ba2df0116bd8826a~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_1a2b49c01be641a5ba2df0116bd8826a~mv2.webp)
+
+[会社の資料を今すぐDifyで要約しよう！](https://www.npwitys.com/post/会社の資料を今すぐdifyで要約しよう！)
+
+最近、\*\*Qiita\*\*に投稿される記事を見ていると、「\*\*Dify\*\*」という単語をよく目にするようになりました。記事の内容から、自分のPC上で\*\*ChatGPT\*\*のような「チャットボット」を簡単に作成できるツールのようだと感じたため、今回は\*\*Dify\*\*の構築方法や...
+
+3
+
+いいね！されていない記事
+
+![Doxygen+gpt-4o+Neo4jによるシステム構成図自動化](https://static.wixstatic.com/media/2c388f_9a34156ae978467c955ef680bebfa590~mv2.png/v1/fill/w_266,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_9a34156ae978467c955ef680bebfa590~mv2.webp)
+
+[Doxygen+gpt-4o+Neo4jによるシステム構成図自動化](https://www.npwitys.com/post/doxygen-gpt-4o-neo4jによるシステム構成図自動化)
+
+システム開発者であれば、一度は「 システム関連図 」を自動化できないかと考えたことがあるはずです。私も、過去の投稿記事でPDFや画像認識を使って自動生成できないか試みましたが、精度や汎用性に限界を感じました。最終的に、Excelのシェープ（円や四角）を利用して関連性を基づき...
+
+0
+
+いいね！されていない記事
+
+![生成AIを活用したアバターの可能性: HeyGenで未来のインタラクティブ体験を試す](https://static.wixstatic.com/media/2c388f_3d753982fb7748fe875c2c31f264ad83~mv2.png/v1/fill/w_267,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_3d753982fb7748fe875c2c31f264ad83~mv2.webp)
+
+[生成AIを活用したアバターの可能性: HeyGenで未来のインタラクティブ体験を試す](https://www.npwitys.com/post/生成aiを活用したアバターの可能性-heygenで未来のインタラクティブ体験を試す)
+
+最近では、生成AIを活用したさまざまなサービスが続々と登場し、これらを組み合わせることで、今は想像もつかないような革新的なアイデアが生まれる可能性を感じています。今回はその中でも、 HeyGen というサービスを試してみたので、ご紹介します。 HeyGen...
+
+0
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_1aa7302d28cb486a8fea593af60a20ec~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_1aa7302d28cb486a8fea593af60a20ec~mv2.webp)![PowerShellを駆使してQiita閲覧数を効率化！作業時間30万円分を節約する自動ツール](https://static.wixstatic.com/media/2c388f_1aa7302d28cb486a8fea593af60a20ec~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_1aa7302d28cb486a8fea593af60a20ec~mv2.webp)
+
+[PowerShellを駆使してQiita閲覧数を効率化！作業時間30万円分を節約する自動ツール](https://www.npwitys.com/post/powershellを駆使してqiita閲覧数を効率化！作業時間30万円分を節約する自動ツール)
+
+最近、記事を頻繁に投稿するようになったのですが、悪い癖で「今日はどれくらいの方が読んでくれたのだろう…」と、ついつい確認したくなってしまいます。その度にQiita APIを送信するため手作業でいろいろと設定し、閲覧数を確認していました。 ...
+
+0
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.webp)![ローカルLLMの進化：Llama3.2で特許検索システムを再構築！](https://static.wixstatic.com/media/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg/v1/fill/w_266,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.webp)
+
+[ローカルLLMの進化：Llama3.2で特許検索システムを再構築！](https://www.npwitys.com/post/ローカルllmの進化：llama3-2で特許検索システムを再構築！)
+
+今回は、「ローカルLLM」にリベンジします。以前、ローカル環境にLLMを構築した際、その過程を記事にまとめました。しかし、結果として応答に10分以上かかることが多く、実用には程遠い状況でした。（記事公開後も再度トライしてみましたが、1時間以上応答がないことも珍しくありません...
+
+0
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.webp)![LangChainとNeo4jでシステム連携図を自動生成する方法](https://static.wixstatic.com/media/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.webp)
+
+[LangChainとNeo4jでシステム連携図を自動生成する方法](https://www.npwitys.com/post/langchainとneo4jでシステム連携図を自動生成する方法)
+
+社内でシステムの管理をしていると、各システムの連携を図や表で表す必要が出てくることがよくあります。しかし、人間は細かい管理には向いておらず、定期的なメンテナンスや最新化、そして統一された粒度（レベル）の管理を続けるのは非常に困難です。...
+
+0
+
+いいね！されていない記事
+
+![電子化対応を支援する！請求書自動整理ツールのご紹介](https://static.wixstatic.com/media/2c388f_c32aff572be94547889996b9ea18e161~mv2.png/v1/fill/w_267,h_142,fp_0.50_0.50,q_95,enc_auto/2c388f_c32aff572be94547889996b9ea18e161~mv2.webp)
+
+[電子化対応を支援する！請求書自動整理ツールのご紹介](https://www.npwitys.com/post/電子化対応を支援する！請求書自動整理ツールのご紹介)
+
+\# 最近思うこと 　2024年1月に電子帳簿保存法が改定され、領収書や請求書を紙ではなく電子データのまま保存できるようになりました。さらに、同年10月には郵便料金の値上げも予定されています。この変化により、多くの企業では経営層や他部署から「なぜ電子化に対応していないのか？」...
+
+0
+
+いいね！されていない記事
+
+![OCR vs OpenAIで表を解析してみた！精度の比較と課題を徹底検証](https://static.wixstatic.com/media/2c388f_08afe367fc2649ccbfece92573e87a05~mv2.png/v1/fill/w_266,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_08afe367fc2649ccbfece92573e87a05~mv2.webp)
+
+[OCR vs OpenAIで表を解析してみた！精度の比較と課題を徹底検証](https://www.npwitys.com/post/ocr-vs-openaiで表を解析してみた！精度の比較と課題を徹底検証)
+
+先日、「OCRとOpenAIの比較」や「宝くじの番号をOCRで一括確認する方法」に関する記事を投稿しました。主に画像内の文字や数字の認識精度を比較した内容です。詳しくは以下の記事をご覧ください。 今回は、表形式の画像に焦点を当てて、OCRとOpenAIの認識精度を比較してみ...
+
+1
+
+いいね！されていない記事
+
+![ローカルLLMをWindowsで動かしてみた話](https://static.wixstatic.com/media/2c388f_e4a495ec362e43e5b4ad51deed65f891~mv2.png/v1/fill/w_267,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_e4a495ec362e43e5b4ad51deed65f891~mv2.webp)
+
+[ローカルLLMをWindowsで動かしてみた話](https://www.npwitys.com/post/ローカルllmをwindowsで動かしてみた話)
+
+最近「ローカルLLM」という言葉に惹かれ、調べてみたところ、なんとChatGPTのような言語モデルをローカルPC上で構築できるということを知りました。 @ksonoda さんの投稿記事を参考にさせて頂きました。ありがとうございます。...
+
+1
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_8ce87195c6bd4121b66af1483aa35a27~mv2.jpeg/v1/fill/w_223,h_223,fp_0.50_0.50,lg_1,q_30,blur_30,enc_auto/2c388f_8ce87195c6bd4121b66af1483aa35a27~mv2.webp)![宝くじの番号をOCRで一括確認](https://static.wixstatic.com/media/2c388f_8ce87195c6bd4121b66af1483aa35a27~mv2.jpeg/v1/fill/w_267,h_159,fp_0.50_0.50,q_90,enc_auto/2c388f_8ce87195c6bd4121b66af1483aa35a27~mv2.webp)
+
+[宝くじの番号をOCRで一括確認](https://www.npwitys.com/post/宝くじの番号をocrで一括確認)
+
+今回は、宝くじ券の番号をOCRで認識させるプログラムを紹介します。私事で恐縮なのですが、先日「宝くじ記念くじ」を150枚買ったのですが、券を1つ1つ確認すると歳のせいか手がカサカサになり、紙で指が切れて血が出てしまいました。 ...
+
+1
+
+いいね！されていない記事
+
+![OCRとOpenAIを比較してみた](https://static.wixstatic.com/media/2c388f_efc782218b30405793a86734541a1edc~mv2.png/v1/fill/w_266,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_efc782218b30405793a86734541a1edc~mv2.webp)
+
+[OCRとOpenAIを比較してみた](https://www.npwitys.com/post/ocrとopenaiを比較してみた)
+
+情報システム部にいると、「OCRを試してみたい」とか「紙の帳票はやめないが、効率化を図りたい」などといろいろな引き合いが舞い込んできます。そのためOCRを小さなプロジェクトやPoCで試すことも多いのですが、文字認識の精度のせいなのか、ほとんどは立ち消えになってしまっています。...
+
+0
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_fde560c4b2b74213851e68a1b71d4251~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,lg_1,q_30,blur_30,enc_auto/2c388f_fde560c4b2b74213851e68a1b71d4251~mv2.webp)![Excelマクロで仕事効率化（初心者向け）](https://static.wixstatic.com/media/2c388f_fde560c4b2b74213851e68a1b71d4251~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_fde560c4b2b74213851e68a1b71d4251~mv2.webp)
+
+[Excelマクロで仕事効率化（初心者向け）](https://www.npwitys.com/post/excelマクロで仕事効率化（初心者向け）)
+
+私の勤務先では、ほぼ100%の社員がプログラミングを書くことができません。それ自体はそれほど大きな問題ではないのですが、社員が皆プログラムを書けないことで、「ラストONEマイル」(※)に苦労しており、多くの方々が毎日「Excel」や「Word」と格闘する羽目になっています。...
+
+0
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_04952b850683482086583744bff3416b~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_04952b850683482086583744bff3416b~mv2.webp)![LangChainを用いて大量ファイルをロードするVectorDBを作ってみた](https://static.wixstatic.com/media/2c388f_04952b850683482086583744bff3416b~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_04952b850683482086583744bff3416b~mv2.webp)
+
+[LangChainを用いて大量ファイルをロードするVectorDBを作ってみた](https://www.npwitys.com/post/langchainを用いて大量ファイルをロードするvectordbを作ってみた)
+
+私が考えた構想は、フォルダの中の非定型ファイル群を一気に読込み、その情報を利用して生成AIに問いかけをするという仕組みでした。すなわちタイトルにある「大量ファイルをロードするVectorDB」の実現です。早速やってみようと思い、「Udemy」や「YouTube」を色々見てみ...
+
+1
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_f36ff080af054555bed1c171704d94a4~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_f36ff080af054555bed1c171704d94a4~mv2.webp)![ChatGPT/LangChainによるチャットシステム構築[実践]入門のプログラムを試す](https://static.wixstatic.com/media/2c388f_f36ff080af054555bed1c171704d94a4~mv2.jpeg/v1/fill/w_266,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_f36ff080af054555bed1c171704d94a4~mv2.webp)
+
+[ChatGPT/LangChainによるチャットシステム構築\[実践\]入門のプログラムを試す](https://www.npwitys.com/post/chatgpt-langchainによるチャットシステム構築-実践-入門のプログラムを試す)
+
+現在私は「LangChain」のプログラムに沼っており（若い人が使う言葉ですね）、今回は「ChatGPT/LangChainによるチャットシステム構築\[実践\]入門」を読んで、いろいろプログラミングをして楽しむことにしました。　今まで私は「製造業の生産管理システム」や「プログ...
+
+0
+
+いいね！されていない記事
+
+## サービス
+
+サービス詳細- ![](https://static.wixstatic.com/media/e63498afac804a82a4a8a64fdef2c6fd.jpg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/e63498afac804a82a4a8a64fdef2c6fd.jpg)
+
+[**ITコンサルティング**](https://www.npwitys.com/service-page/itコンサルティング)
+
+社内でITやシステムの刷新計画をしているけれども、費用の見積もりが非常に高くなってしまい、どうしたらよいか分からないという状況に陥ったことはございませんでしょうか？
+
+* * *
+
+- ![](https://static.wixstatic.com/media/11062b_148abf6124504b8cbe6fa264a5249028~mv2.jpg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/11062b_148abf6124504b8cbe6fa264a5249028~mv2.jpg)
+
+[**生成AIシステム開発**](https://www.npwitys.com/service-page/生成aiシステム開発)
+
+世の中では「生成AI」が活況となっておりますが、作業効率化のために社内でも展開してみたいとお思いでしょうか？
+
+* * *
+
+- ![](https://static.wixstatic.com/media/11062b_d482f7fb62b04ae5a56d4235b94dac77~mv2.jpeg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/11062b_d482f7fb62b04ae5a56d4235b94dac77~mv2.jpeg)
+
+[**Excel・Access マクロ開発**](https://www.npwitys.com/service-page/excel-access-マクロ開発)
+
+パソコンを使った日々の単純作業を多く抱えており、経理処理のため月末月初は特に残業多くて困っているという方はいらっしゃいませんでしょうか？
+
+* * *
+
+- ![](https://static.wixstatic.com/media/11062b_2c8b22cbc8834efb8e9743cd3b8bfb76~mv2.jpg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/11062b_2c8b22cbc8834efb8e9743cd3b8bfb76~mv2.jpg)
+
+[**経理作業の効率化**](https://www.npwitys.com/service-page/経理作業の効率化)
+
+「インボイス」や「電子帳簿保存法」に疲れていませんか？
+
+* * *
+
+- ![](https://static.wixstatic.com/media/11062b_e8133ab98b074abab4bacaa7f49e3608~mv2.jpeg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/11062b_e8133ab98b074abab4bacaa7f49e3608~mv2.jpeg)
+
+[**RPA支援**](https://www.npwitys.com/service-page/rpa支援)
+
+社内の「RPA」は上手く浸透してますでしょうか？
+
+* * *
+
+- ![](https://static.wixstatic.com/media/nsplsh_951c650a9d5049498c742f005142af55~mv2.jpg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/nsplsh_951c650a9d5049498c742f005142af55~mv2.jpg)
+
+[**Webサービス開発**](https://www.npwitys.com/service-page/webサービス開発)
+
+Webサービス開発は、高額になると思っていませんか？
+
+* * *
+
+## いま思うこと
+
+ユーザ企業の中では、プログラミング、システム、ITのことを全く知らない方々が多く、少しマクロを組んだりすれば効率が劇的に上がる作業でも、手作業のために大変苦労していることも目の当たりにしてきました。
+
+私は、日本の多くのユーザ企業では、ちょっとしたプログラム・マクロができるようになるだけで、本当にたくさんの方々が楽になると確信しています。
+
+どのようにすれば、会社の皆さんが楽しく仕事の効率を上げることができるのか、現在いろいろ考えています。「RPA」や「ノーコード」などを導入している企業もあるようですが、習得するのにそれなりにハードルが高く、直ぐに浸透させるのは難しそうです。今後の私の課題として捉えています。
+
+また一方で、会社の皆さんのメンタル的な課題も発生しています。例えば部署内の人間関係で悩んだり、仕事の効率が上がらないために上司や同僚から叱られたり。
+
+私は、心理学のメソッドの１つである「NLP」（Neuro-Linguistic-Programming（神経言語プログラミング））を取り入れて、会社の皆さんが楽しく・安心して働けるように今画策しています。これについては追々お話しします。
+
+こんなことを考えながら、日々お仕事をさせていただいています。
+
+![Blue App Mockup](https://static.wixstatic.com/media/11062b_6af6844ee7734c12a22ff03cf8dddb00~mv2.jpg/v1/fill/w_2208,h_807,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_6af6844ee7734c12a22ff03cf8dddb00~mv2.jpg)
+
+## お問い合わせ
+
+お気軽にチャットでご連絡ください
+
+NPWITYSのサービスに関するご質問や疑問がございましたら、お気軽にチャットでお問い合わせください。専門家が丁寧に対応いたします。
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+![歩く人物](https://static.wixstatic.com/media/8168415addfc4b1aa33b7e8f82a30dbb.jpg/v1/fill/w_1920,h_804,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8168415addfc4b1aa33b7e8f82a30dbb.jpg)
+
+# サービス紹介
+
+###### 中小企業や個人事業主向けのITサポートサービス
+
+## Qiita投稿記事
+
+![YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_267,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.webp)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+先日、 YOLO を使用して10ファイルほどの画像を元にアノテーションファイルを作成し、自分で「重み付けファイル」を生成しました。その後、「学習」「検証」、そして最終的に「検出」を実施しましたが、期待していたような結果を得ることができませんでした。その主な原因として、...
+
+6
+
+2 いいね！ いいね！されていない記事2
+
+![Replitで10分でWebシステムを作ろう](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_267,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.webp)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+冒頭のカレンダーですが、私はほぼ毎日ジョギングをしており、その履歴を紙のカレンダーに記録しています。「走」はジョギングをした日を表し、その横に記載している数字は体重です。「飲」は夜にお酒を飲んだこと、「筋」は筋トレをしたこと、「外」は外食をしたことをそれぞれ示しています。外...
+
+3
+
+1 いいね！ いいね！されていない記事1
+
+![水入り？空っぽ？コップの中身をYOLOが画像判定！](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_266,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.webp)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+皆さん、突然ですが「このコップ、水が入っているのかな？」と考えたことはありませんか？私はといえば、家にいるときや作業中、ふと目の前のコップを見て「水が入っているか、空なのか」が気になることがあります。そして、あるときQiitaの記事を読んでいて思いつきました。...
+
+7
+
+1 いいね！ いいね！されていない記事1
+
+![](https://static.wixstatic.com/media/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.webp)![ディスプレイ切替で毎回ウィンドウが大暴れ!? そのイライラを一発解消する方法！](https://static.wixstatic.com/media/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.webp)
+
+[ディスプレイ切替で毎回ウィンドウが大暴れ!? そのイライラを一発解消する方法！](https://www.npwitys.com/post/ディスプレイ切替で毎回ウィンドウが大暴れ-そのイライラを一発解消する方法！)
+
+現在の職場では、私は軽量なモバイルPCを持ち歩き、打ち合わせなどに参加しています。モバイルPCは持ち運びに便利な反面、ディスプレイが小さく、複数のウィンドウを開くと画面がすぐにいっぱいになり、ウィンドウが重なることも多々あります。...
+
+1
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_1a2b49c01be641a5ba2df0116bd8826a~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_1a2b49c01be641a5ba2df0116bd8826a~mv2.webp)![会社の資料を今すぐDifyで要約しよう！](https://static.wixstatic.com/media/2c388f_1a2b49c01be641a5ba2df0116bd8826a~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_1a2b49c01be641a5ba2df0116bd8826a~mv2.webp)
+
+[会社の資料を今すぐDifyで要約しよう！](https://www.npwitys.com/post/会社の資料を今すぐdifyで要約しよう！)
+
+最近、\*\*Qiita\*\*に投稿される記事を見ていると、「\*\*Dify\*\*」という単語をよく目にするようになりました。記事の内容から、自分のPC上で\*\*ChatGPT\*\*のような「チャットボット」を簡単に作成できるツールのようだと感じたため、今回は\*\*Dify\*\*の構築方法や...
+
+3
+
+いいね！されていない記事
+
+![Doxygen+gpt-4o+Neo4jによるシステム構成図自動化](https://static.wixstatic.com/media/2c388f_9a34156ae978467c955ef680bebfa590~mv2.png/v1/fill/w_266,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_9a34156ae978467c955ef680bebfa590~mv2.webp)
+
+[Doxygen+gpt-4o+Neo4jによるシステム構成図自動化](https://www.npwitys.com/post/doxygen-gpt-4o-neo4jによるシステム構成図自動化)
+
+システム開発者であれば、一度は「 システム関連図 」を自動化できないかと考えたことがあるはずです。私も、過去の投稿記事でPDFや画像認識を使って自動生成できないか試みましたが、精度や汎用性に限界を感じました。最終的に、Excelのシェープ（円や四角）を利用して関連性を基づき...
+
+0
+
+いいね！されていない記事
+
+![生成AIを活用したアバターの可能性: HeyGenで未来のインタラクティブ体験を試す](https://static.wixstatic.com/media/2c388f_3d753982fb7748fe875c2c31f264ad83~mv2.png/v1/fill/w_267,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_3d753982fb7748fe875c2c31f264ad83~mv2.webp)
+
+[生成AIを活用したアバターの可能性: HeyGenで未来のインタラクティブ体験を試す](https://www.npwitys.com/post/生成aiを活用したアバターの可能性-heygenで未来のインタラクティブ体験を試す)
+
+最近では、生成AIを活用したさまざまなサービスが続々と登場し、これらを組み合わせることで、今は想像もつかないような革新的なアイデアが生まれる可能性を感じています。今回はその中でも、 HeyGen というサービスを試してみたので、ご紹介します。 HeyGen...
+
+0
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_1aa7302d28cb486a8fea593af60a20ec~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_1aa7302d28cb486a8fea593af60a20ec~mv2.webp)![PowerShellを駆使してQiita閲覧数を効率化！作業時間30万円分を節約する自動ツール](https://static.wixstatic.com/media/2c388f_1aa7302d28cb486a8fea593af60a20ec~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_1aa7302d28cb486a8fea593af60a20ec~mv2.webp)
+
+[PowerShellを駆使してQiita閲覧数を効率化！作業時間30万円分を節約する自動ツール](https://www.npwitys.com/post/powershellを駆使してqiita閲覧数を効率化！作業時間30万円分を節約する自動ツール)
+
+最近、記事を頻繁に投稿するようになったのですが、悪い癖で「今日はどれくらいの方が読んでくれたのだろう…」と、ついつい確認したくなってしまいます。その度にQiita APIを送信するため手作業でいろいろと設定し、閲覧数を確認していました。 ...
+
+0
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.webp)![ローカルLLMの進化：Llama3.2で特許検索システムを再構築！](https://static.wixstatic.com/media/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg/v1/fill/w_266,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.webp)
+
+[ローカルLLMの進化：Llama3.2で特許検索システムを再構築！](https://www.npwitys.com/post/ローカルllmの進化：llama3-2で特許検索システムを再構築！)
+
+今回は、「ローカルLLM」にリベンジします。以前、ローカル環境にLLMを構築した際、その過程を記事にまとめました。しかし、結果として応答に10分以上かかることが多く、実用には程遠い状況でした。（記事公開後も再度トライしてみましたが、1時間以上応答がないことも珍しくありません...
+
+0
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.webp)![LangChainとNeo4jでシステム連携図を自動生成する方法](https://static.wixstatic.com/media/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.webp)
+
+[LangChainとNeo4jでシステム連携図を自動生成する方法](https://www.npwitys.com/post/langchainとneo4jでシステム連携図を自動生成する方法)
+
+社内でシステムの管理をしていると、各システムの連携を図や表で表す必要が出てくることがよくあります。しかし、人間は細かい管理には向いておらず、定期的なメンテナンスや最新化、そして統一された粒度（レベル）の管理を続けるのは非常に困難です。...
+
+0
+
+いいね！されていない記事
+
+![電子化対応を支援する！請求書自動整理ツールのご紹介](https://static.wixstatic.com/media/2c388f_c32aff572be94547889996b9ea18e161~mv2.png/v1/fill/w_267,h_142,fp_0.50_0.50,q_95,enc_auto/2c388f_c32aff572be94547889996b9ea18e161~mv2.webp)
+
+[電子化対応を支援する！請求書自動整理ツールのご紹介](https://www.npwitys.com/post/電子化対応を支援する！請求書自動整理ツールのご紹介)
+
+\# 最近思うこと 　2024年1月に電子帳簿保存法が改定され、領収書や請求書を紙ではなく電子データのまま保存できるようになりました。さらに、同年10月には郵便料金の値上げも予定されています。この変化により、多くの企業では経営層や他部署から「なぜ電子化に対応していないのか？」...
+
+0
+
+いいね！されていない記事
+
+![OCR vs OpenAIで表を解析してみた！精度の比較と課題を徹底検証](https://static.wixstatic.com/media/2c388f_08afe367fc2649ccbfece92573e87a05~mv2.png/v1/fill/w_266,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_08afe367fc2649ccbfece92573e87a05~mv2.webp)
+
+[OCR vs OpenAIで表を解析してみた！精度の比較と課題を徹底検証](https://www.npwitys.com/post/ocr-vs-openaiで表を解析してみた！精度の比較と課題を徹底検証)
+
+先日、「OCRとOpenAIの比較」や「宝くじの番号をOCRで一括確認する方法」に関する記事を投稿しました。主に画像内の文字や数字の認識精度を比較した内容です。詳しくは以下の記事をご覧ください。 今回は、表形式の画像に焦点を当てて、OCRとOpenAIの認識精度を比較してみ...
+
+1
+
+いいね！されていない記事
+
+![ローカルLLMをWindowsで動かしてみた話](https://static.wixstatic.com/media/2c388f_e4a495ec362e43e5b4ad51deed65f891~mv2.png/v1/fill/w_267,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_e4a495ec362e43e5b4ad51deed65f891~mv2.webp)
+
+[ローカルLLMをWindowsで動かしてみた話](https://www.npwitys.com/post/ローカルllmをwindowsで動かしてみた話)
+
+最近「ローカルLLM」という言葉に惹かれ、調べてみたところ、なんとChatGPTのような言語モデルをローカルPC上で構築できるということを知りました。 @ksonoda さんの投稿記事を参考にさせて頂きました。ありがとうございます。...
+
+1
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_8ce87195c6bd4121b66af1483aa35a27~mv2.jpeg/v1/fill/w_223,h_223,fp_0.50_0.50,lg_1,q_30,blur_30,enc_auto/2c388f_8ce87195c6bd4121b66af1483aa35a27~mv2.webp)![宝くじの番号をOCRで一括確認](https://static.wixstatic.com/media/2c388f_8ce87195c6bd4121b66af1483aa35a27~mv2.jpeg/v1/fill/w_267,h_159,fp_0.50_0.50,q_90,enc_auto/2c388f_8ce87195c6bd4121b66af1483aa35a27~mv2.webp)
+
+[宝くじの番号をOCRで一括確認](https://www.npwitys.com/post/宝くじの番号をocrで一括確認)
+
+今回は、宝くじ券の番号をOCRで認識させるプログラムを紹介します。私事で恐縮なのですが、先日「宝くじ記念くじ」を150枚買ったのですが、券を1つ1つ確認すると歳のせいか手がカサカサになり、紙で指が切れて血が出てしまいました。 ...
+
+1
+
+いいね！されていない記事
+
+![OCRとOpenAIを比較してみた](https://static.wixstatic.com/media/2c388f_efc782218b30405793a86734541a1edc~mv2.png/v1/fill/w_266,h_200,fp_0.50_0.50,q_95,enc_auto/2c388f_efc782218b30405793a86734541a1edc~mv2.webp)
+
+[OCRとOpenAIを比較してみた](https://www.npwitys.com/post/ocrとopenaiを比較してみた)
+
+情報システム部にいると、「OCRを試してみたい」とか「紙の帳票はやめないが、効率化を図りたい」などといろいろな引き合いが舞い込んできます。そのためOCRを小さなプロジェクトやPoCで試すことも多いのですが、文字認識の精度のせいなのか、ほとんどは立ち消えになってしまっています。...
+
+0
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_fde560c4b2b74213851e68a1b71d4251~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,lg_1,q_30,blur_30,enc_auto/2c388f_fde560c4b2b74213851e68a1b71d4251~mv2.webp)![Excelマクロで仕事効率化（初心者向け）](https://static.wixstatic.com/media/2c388f_fde560c4b2b74213851e68a1b71d4251~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_fde560c4b2b74213851e68a1b71d4251~mv2.webp)
+
+[Excelマクロで仕事効率化（初心者向け）](https://www.npwitys.com/post/excelマクロで仕事効率化（初心者向け）)
+
+私の勤務先では、ほぼ100%の社員がプログラミングを書くことができません。それ自体はそれほど大きな問題ではないのですが、社員が皆プログラムを書けないことで、「ラストONEマイル」(※)に苦労しており、多くの方々が毎日「Excel」や「Word」と格闘する羽目になっています。...
+
+0
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_04952b850683482086583744bff3416b~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_04952b850683482086583744bff3416b~mv2.webp)![LangChainを用いて大量ファイルをロードするVectorDBを作ってみた](https://static.wixstatic.com/media/2c388f_04952b850683482086583744bff3416b~mv2.jpeg/v1/fill/w_267,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_04952b850683482086583744bff3416b~mv2.webp)
+
+[LangChainを用いて大量ファイルをロードするVectorDBを作ってみた](https://www.npwitys.com/post/langchainを用いて大量ファイルをロードするvectordbを作ってみた)
+
+私が考えた構想は、フォルダの中の非定型ファイル群を一気に読込み、その情報を利用して生成AIに問いかけをするという仕組みでした。すなわちタイトルにある「大量ファイルをロードするVectorDB」の実現です。早速やってみようと思い、「Udemy」や「YouTube」を色々見てみ...
+
+1
+
+いいね！されていない記事
+
+![](https://static.wixstatic.com/media/2c388f_f36ff080af054555bed1c171704d94a4~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_auto/2c388f_f36ff080af054555bed1c171704d94a4~mv2.webp)![ChatGPT/LangChainによるチャットシステム構築[実践]入門のプログラムを試す](https://static.wixstatic.com/media/2c388f_f36ff080af054555bed1c171704d94a4~mv2.jpeg/v1/fill/w_266,h_200,fp_0.50_0.50,q_90,enc_auto/2c388f_f36ff080af054555bed1c171704d94a4~mv2.webp)
+
+[ChatGPT/LangChainによるチャットシステム構築\[実践\]入門のプログラムを試す](https://www.npwitys.com/post/chatgpt-langchainによるチャットシステム構築-実践-入門のプログラムを試す)
+
+現在私は「LangChain」のプログラムに沼っており（若い人が使う言葉ですね）、今回は「ChatGPT/LangChainによるチャットシステム構築\[実践\]入門」を読んで、いろいろプログラミングをして楽しむことにしました。　今まで私は「製造業の生産管理システム」や「プログ...
+
+0
+
+いいね！されていない記事
+
+## サービス
+
+サービス詳細- ![](https://static.wixstatic.com/media/e63498afac804a82a4a8a64fdef2c6fd.jpg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/e63498afac804a82a4a8a64fdef2c6fd.jpg)
+
+[**ITコンサルティング**](https://www.npwitys.com/service-page/itコンサルティング)
+
+社内でITやシステムの刷新計画をしているけれども、費用の見積もりが非常に高くなってしまい、どうしたらよいか分からないという状況に陥ったことはございませんでしょうか？
+
+* * *
+
+- ![](https://static.wixstatic.com/media/11062b_148abf6124504b8cbe6fa264a5249028~mv2.jpg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/11062b_148abf6124504b8cbe6fa264a5249028~mv2.jpg)
+
+[**生成AIシステム開発**](https://www.npwitys.com/service-page/生成aiシステム開発)
+
+世の中では「生成AI」が活況となっておりますが、作業効率化のために社内でも展開してみたいとお思いでしょうか？
+
+* * *
+
+- ![](https://static.wixstatic.com/media/11062b_d482f7fb62b04ae5a56d4235b94dac77~mv2.jpeg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/11062b_d482f7fb62b04ae5a56d4235b94dac77~mv2.jpeg)
+
+[**Excel・Access マクロ開発**](https://www.npwitys.com/service-page/excel-access-マクロ開発)
+
+パソコンを使った日々の単純作業を多く抱えており、経理処理のため月末月初は特に残業多くて困っているという方はいらっしゃいませんでしょうか？
+
+* * *
+
+- ![](https://static.wixstatic.com/media/11062b_2c8b22cbc8834efb8e9743cd3b8bfb76~mv2.jpg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/11062b_2c8b22cbc8834efb8e9743cd3b8bfb76~mv2.jpg)
+
+[**経理作業の効率化**](https://www.npwitys.com/service-page/経理作業の効率化)
+
+「インボイス」や「電子帳簿保存法」に疲れていませんか？
+
+* * *
+
+- ![](https://static.wixstatic.com/media/11062b_e8133ab98b074abab4bacaa7f49e3608~mv2.jpeg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/11062b_e8133ab98b074abab4bacaa7f49e3608~mv2.jpeg)
+
+[**RPA支援**](https://www.npwitys.com/service-page/rpa支援)
+
+社内の「RPA」は上手く浸透してますでしょうか？
+
+* * *
+
+- ![](https://static.wixstatic.com/media/nsplsh_951c650a9d5049498c742f005142af55~mv2.jpg/v1/fill/w_331,h_333,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/nsplsh_951c650a9d5049498c742f005142af55~mv2.jpg)
+
+[**Webサービス開発**](https://www.npwitys.com/service-page/webサービス開発)
+
+Webサービス開発は、高額になると思っていませんか？
+
+* * *
+
+## いま思うこと
+
+ユーザ企業の中では、プログラミング、システム、ITのことを全く知らない方々が多く、少しマクロを組んだりすれば効率が劇的に上がる作業でも、手作業のために大変苦労していることも目の当たりにしてきました。
+
+私は、日本の多くのユーザ企業では、ちょっとしたプログラム・マクロができるようになるだけで、本当にたくさんの方々が楽になると確信しています。
+
+どのようにすれば、会社の皆さんが楽しく仕事の効率を上げることができるのか、現在いろいろ考えています。「RPA」や「ノーコード」などを導入している企業もあるようですが、習得するのにそれなりにハードルが高く、直ぐに浸透させるのは難しそうです。今後の私の課題として捉えています。
+
+また一方で、会社の皆さんのメンタル的な課題も発生しています。例えば部署内の人間関係で悩んだり、仕事の効率が上がらないために上司や同僚から叱られたり。
+
+私は、心理学のメソッドの１つである「NLP」（Neuro-Linguistic-Programming（神経言語プログラミング））を取り入れて、会社の皆さんが楽しく・安心して働けるように今画策しています。これについては追々お話しします。
+
+こんなことを考えながら、日々お仕事をさせていただいています。
+
+![Blue App Mockup](https://static.wixstatic.com/media/11062b_6af6844ee7734c12a22ff03cf8dddb00~mv2.jpg/v1/fill/w_2208,h_807,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_6af6844ee7734c12a22ff03cf8dddb00~mv2.jpg)
+
+## お問い合わせ
+
+お気軽にチャットでご連絡ください
+
+NPWITYSのサービスに関するご質問や疑問がございましたら、お気軽にチャットでお問い合わせください。専門家が丁寧に対応いたします。
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末
+
+先日、 **YOLO** を使用して10ファイルほどの画像を元にアノテーションファイルを作成し、自分で「重み付けファイル」を生成しました。その後、「学習」「検証」、そして最終的に「検出」を実施しましたが、期待していたような結果を得ることができませんでした。その主な原因として、 **画像データの圧倒的な不足** が挙げられます。
+
+この記事では、画像ファイルとアノテーションファイルを自動生成してデータを増やし、改めて「学習」「検証」「検出」に挑戦しました。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/39cf5b29177dfd969eb5](https://qiita.com/ogi_kimura/items/39cf5b29177dfd969eb5)
+
+![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_740,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)
+
+閲覧数：8回0件のコメント
+
+3 いいね！ いいね！されていない記事3
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg/v1/fill/w_288,h_162,al_c,q_80,enc_auto/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg)](https://www.npwitys.com/post/ディスプレイ切替で毎回ウィンドウが大暴れ-そのイライラを一発解消する方法！)
+
+[ディスプレイ切替で毎回ウィンドウが大暴れ!? そのイライラを一発解消する方法！](https://www.npwitys.com/post/ディスプレイ切替で毎回ウィンドウが大暴れ-そのイライラを一発解消する方法！)
+
+10件のコメント0
+
+いいね！されていない記事
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# Replitで10分でWebシステムを作ろう
+
+冒頭のカレンダーですが、私はほぼ毎日ジョギングをしており、その履歴を紙のカレンダーに記録しています。「走」はジョギングをした日を表し、その横に記載している数字は体重です。「飲」は夜にお酒を飲んだこと、「筋」は筋トレをしたこと、「外」は外食をしたことをそれぞれ示しています。外食をした翌日は、たいてい体重が増えてしまいます💦
+
+このように紙のカレンダーに記録しているものの、体重の増減をグラフで視覚的に確認したくなりました。そこで、毎日Webシステムに体重を登録し、それをグラフで表示できるような仕組みを作りたいと考えるようになりました。
+
+そんなときに **Replit** の記事を目にし、「これならWebシステムが作れるのでは？」と思い立ちました。そこから（約20分ほど）奮闘した記録をこの記事にまとめてみました！
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/835e020a15d169e57d48](https://qiita.com/ogi_kimura/items/835e020a15d169e57d48)
+
+![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_740,h_555,al_c,lg_1,q_90,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)
+
+閲覧数：4回0件のコメント
+
+1 いいね！ いいね！されていない記事1
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg/v1/fill/w_288,h_162,al_c,q_80,enc_auto/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg)](https://www.npwitys.com/post/ディスプレイ切替で毎回ウィンドウが大暴れ-そのイライラを一発解消する方法！)
+
+[ディスプレイ切替で毎回ウィンドウが大暴れ!? そのイライラを一発解消する方法！](https://www.npwitys.com/post/ディスプレイ切替で毎回ウィンドウが大暴れ-そのイライラを一発解消する方法！)
+
+10件のコメント0
+
+いいね！されていない記事
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# 水入り？空っぽ？コップの中身をYOLOが画像判定！
+
+皆さん、突然ですが「このコップ、水が入っているのかな？」と考えたことはありませんか？私はといえば、家にいるときや作業中、ふと目の前のコップを見て「水が入っているか、空なのか」が気になることがあります。そして、あるときQiitaの記事を読んでいて思いつきました。
+
+「これ、機械に判断させることってできないのかな？」と。
+
+今回の挑戦はそんな日常の疑問から始まりました。さらに、以前見たRaspberry Piの自動餌やり機の記事がヒントになりました。家で飼っているハムスターの餌がなくなると自動で補充する仕組みでしたが、これはまさに「ある・ない」を判断するシステムです。これを自分の手で作り上げることで、「水の入ったコップ」と「空のコップ」を機械学習で判別できる仕組みを実現してみたいと思います。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/21b2a4df70a6b4faf177](https://qiita.com/ogi_kimura/items/21b2a4df70a6b4faf177)
+
+![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_414,h_284,al_c,lg_1,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)
+
+閲覧数：7回0件のコメント
+
+1 いいね！ いいね！されていない記事1
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg/v1/fill/w_288,h_162,al_c,q_80,enc_auto/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg)](https://www.npwitys.com/post/ディスプレイ切替で毎回ウィンドウが大暴れ-そのイライラを一発解消する方法！)
+
+[ディスプレイ切替で毎回ウィンドウが大暴れ!? そのイライラを一発解消する方法！](https://www.npwitys.com/post/ディスプレイ切替で毎回ウィンドウが大暴れ-そのイライラを一発解消する方法！)
+
+10件のコメント0
+
+いいね！されていない記事
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# ディスプレイ切替で毎回ウィンドウが大暴れ!? そのイライラを一発解消する方法！
+
+現在の職場では、私は軽量なモバイルPCを持ち歩き、打ち合わせなどに参加しています。モバイルPCは持ち運びに便利な反面、ディスプレイが小さく、複数のウィンドウを開くと画面がすぐにいっぱいになり、ウィンドウが重なることも多々あります。
+
+会社ではこの点を配慮し、デスクには大きな外部ディスプレイを設置しています。そのため、デスクで作業するときには、2画面で作業ができ、効率も数倍向上するとの話を書籍で目にしたこともあり、とても快適に仕事を進められています。
+
+一方で、打ち合わせなどでモバイルPCを持ち歩く際には1画面に戻るため、ウィンドウの位置やサイズが毎回変わってしまいます。私は日常的に約20個のウィンドウを開いているため、再びデスクに戻った際はそれらをチマチマ元の位置に戻す作業が発生します。1日に10回程度画面の切り替えがあるので、1回あたり3分かかるこの作業により、1日で約30分、1か月で10時間、年間で120時間の無駄が生じている計算になります。
+
+この状況を改善すれば、年間に換算して一人月のコスト削減が見込まれます。そこで、情報システム担当として業務効率化を図るべく、こうした作業を自動化するツールを開発することを決意しました。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/d7c95cc3a8664914cd35](https://qiita.com/ogi_kimura/items/d7c95cc3a8664914cd35)
+
+![](https://static.wixstatic.com/media/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg/v1/fill/w_740,h_986,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c388f_b92d7eb382984d3bb90235b7a3a68609~mv2.jpeg)
+
+閲覧数：1回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# 会社の資料を今すぐDifyで要約しよう！
+
+最近、\*\*Qiita\*\*に投稿される記事を見ていると、「\*\*Dify\*\*」という単語をよく目にするようになりました。記事の内容から、自分のPC上で\*\*ChatGPT\*\*のような「チャットボット」を簡単に作成できるツールのようだと感じたため、今回は\*\*Dify\*\*の構築方法や操作感について確認してみることにしました。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/d13631b3a77e18023ef9](https://qiita.com/ogi_kimura/items/d13631b3a77e18023ef9)
+
+![](https://static.wixstatic.com/media/2c388f_1a2b49c01be641a5ba2df0116bd8826a~mv2.jpeg/v1/fill/w_740,h_986,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c388f_1a2b49c01be641a5ba2df0116bd8826a~mv2.jpeg)
+
+閲覧数：4回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+Skip to Main Content
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 2分
+
+# Doxygen+gpt-4o+Neo4jによるシステム構成図自動化
+
+システム開発者であれば、一度は「 **システム関連図**」を自動化できないかと考えたことがあるはずです。私も、過去の投稿記事でPDFや画像認識を使って自動生成できないか試みましたが、精度や汎用性に限界を感じました。最終的に、Excelのシェープ（円や四角）を利用して関連性を基づき作図する方法に行き着きました。結果としては十分な精度が得られたものの、シェープ同士の関係性を手作業で定義するのは非常に手間がかかり、現実的ではありません。
+
+一方で、システム開発者として、もう一つ気になるのが「 **プログラム構造**」です。例えば、「この関数に引数を追加したらどの部分に影響が出るのか？」や、「メソッド名を変更した際、どれだけの箇所を修正する必要があるのか？」といった悩みは、日常的に直面する問題です。もちろん、grepなどの検索ツールもありますが、それだけでは不十分だということを多くの技術者は痛感しているでしょう。
+
+そこで今回は、「 **システム関連図**」の代わりに「 **プログラム構造解析**」に焦点を当て、Neo4jとgpt-4oを使ったPythonプログラムを作成してみようと思います。ここで思い浮かんだのが、かつて利用していた **Doxygen** です。最近は使っていませんでしたが、クラスやファイルの依存関係を高い精度で文書化でき、さらに **Graphviz** と連携してリッチなクラス図や依存関係図を生成できる優れたツールです。
+
+今回は、 **Neo4j**、 **gpt-4o**、そして **Doxygen** を組み合わせて、プログラムの構造を解析・可視化するプロセスに挑戦していきます。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/1b6ef14ab02bda2772e1](https://qiita.com/ogi_kimura/items/1b6ef14ab02bda2772e1)
+
+![](https://static.wixstatic.com/media/2c388f_9a34156ae978467c955ef680bebfa590~mv2.png/v1/fill/w_740,h_320,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c388f_9a34156ae978467c955ef680bebfa590~mv2.png)
+
+閲覧数：0回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+120件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+90件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+120件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[iframe](https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-m4esauq8&viewerCompId=comp-m4esauq8&siteRevision=36&viewMode=site&deviceType=desktop&locale=en&tz=Asia%2FTokyo&regionalLanguage=ja&width=268&height=86&instance=Eq-NDj_pSiVa1220oq4lTnZmUqG6_7xNzeCASFP1v5w.eyJpbnN0YW5jZUlkIjoiMjM4MWUyMmUtMDVlZi00OWYyLWI3ZjEtOGVkZmE2M2IzODdiIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiOGExZDNlYTItNmEwOS00MDUwLWJkMzgtMTMxM2UyNzk1YWQ5Iiwic2lnbkRhdGUiOiIyMDI0LTEyLTI5VDEzOjQ5OjMwLjYwMloiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6Ijk0YTUzOWUxLTU2ZmEtNGVhMy04MWFhLWU1ZmE1YjczZTFkMCIsImJpVG9rZW4iOiJhOTljZGM4Yy02ZmU2LTA5YTItMGFjOS05ZGNjNDQ0MjYyYTIiLCJzaXRlT3duZXJJZCI6IjJjMzg4ZjA1LWM1MDEtNGY1Ni04YTI4LWUwOGNlY2U4NDY3YyJ9&currency=JPY&currentCurrency=JPY&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%22a64e264e-f604-4335-97c3-2b909ecd1c45%7C1%22%2C%22siteRevision%22%3A%2236%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22ja-jp%22%2C%22BSI%22%3A%22a64e264e-f604-4335-97c3-2b909ecd1c45%7C1%22%7D&currentRoute=.%2Fpost%2Fdoxygen-gpt-4o-neo4j%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E6%88%90%E5%9B%B3%E8%87%AA%E5%8B%95%E5%8C%96&vsi=65120a87-bc95-425b-be20-ee150d69bdeb)
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# 生成AIを活用したアバターの可能性: HeyGenで未来のインタラクティブ体験を試す
+
+最近では、生成AIを活用したさまざまなサービスが続々と登場し、これらを組み合わせることで、今は想像もつかないような革新的なアイデアが生まれる可能性を感じています。今回はその中でも、 **HeyGen** というサービスを試してみたので、ご紹介します。
+
+**HeyGen** は、撮影した動画や音声データをもとに、AIがアバターを通じて発話したり、インタラクティブな対話が可能になるプラットフォームです。私は特に、将来的にコールセンター業務などをアバターを使ったチャット形式に置き換えることで、コスト削減が実現できるのではないかと期待しています。
+
+今回は、自分の動画と音声を基にHeyGenを使い、私が実際に発したことのない言葉をアバターに話させることに挑戦してみました。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/4e653af5e94b89188b56](https://qiita.com/ogi_kimura/items/4e653af5e94b89188b56)
+
+![](https://static.wixstatic.com/media/2c388f_3d753982fb7748fe875c2c31f264ad83~mv2.png/v1/fill/w_627,h_453,al_c,lg_1,q_85,enc_auto/2c388f_3d753982fb7748fe875c2c31f264ad83~mv2.png)
+
+閲覧数：1回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+たろう 木村
+12月8日読了時間: 1分
+
+# PowerShellを駆使してQiita閲覧数を効率化！作業時間30万円分を節約する自動ツール
+
+最近、記事を頻繁に投稿するようになったのですが、悪い癖で「今日はどれくらいの方が読んでくれたのだろう…」と、ついつい確認したくなってしまいます。その度にQiita APIを送信するため手作業でいろいろと設定し、閲覧数を確認していました。
+
+作業にかかる時間は1回につき約5分ほど。1日で5回程度確認すると、1日で25分、1週間では175分、年間に換算すると9,125分の時間が無駄になっています。お金に換算するのは少し気が引けますが、時給2,000円と考えると、約304,167円もの損失です。30万円近くのロスは無視できない金額です。
+
+そこで今回は、定期的に自動で閲覧数を取得するツールを開発することにしました。Linux系OS向けの方法は色々と公開されていますが、Qiitaの投稿者全員がプログラミングに精通しているわけではありません。そこで、\`WSL\`を使わずにWindowsだけで動かせるツールを開発することにしました。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/904a056fb6c1ca2aed78](https://qiita.com/ogi_kimura/items/904a056fb6c1ca2aed78)
+
+![](https://static.wixstatic.com/media/2c388f_1aa7302d28cb486a8fea593af60a20ec~mv2.jpeg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/2c388f_1aa7302d28cb486a8fea593af60a20ec~mv2.jpeg)
+
+閲覧数：0回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+Skip to Main Content
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+メニュー
+
+* * *
+
+# Excel・Access マクロ開発
+
+パソコンを使った日々の単純作業を多く抱えており、経理処理のため月末月初は特に残業多くて困っているという方はいらっしゃいませんでしょうか？
+
+30分30分Webミーティング
+
+* * *
+
+## サービス内容
+
+現在、パソコンを使った手作業や単純作業でお困りの方がいらっしゃいましたら、お気軽にご相談下さい。
+規模の大小に関わらず、パソコンを使った手作業・単純作業について、どのような悩みや課題でも結構です。ExcelやWordのマクロにより、作業の省力化をお手伝いさせていただきます。
+
+30分程度のWebでのお打合せをさせていただければと思っております。
+日程調整などさせて頂きますので、「問合せフォーム」もしくは「チャット」から、以下の内容を記載の上、ご連絡をお願いします。
+
+・名前（苗字のみでも結構です）
+・会社名（任意）
+・Web打ち合わせの複数候補日程（日付＋時間帯）
+
+■ お値段（参考）
+Excelブックから生成AI呼び出し： 10,000円
+
+* * *
+
+## 連絡先
+
+090-5138-5456
+
+ogi\_kimura@icloud.com
+
+Japan, 大阪府豊中市上新田２丁目
+
+* * *
+
+[iframe](https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-m4esauq8&viewerCompId=comp-m4esauq8&siteRevision=36&viewMode=site&deviceType=desktop&locale=en&tz=Asia%2FTokyo&regionalLanguage=ja&width=268&height=86&instance=ulV2KYwilb66QdCcmb9nDehpQy4EExYhmUpoo_a2aAQ.eyJpbnN0YW5jZUlkIjoiMjM4MWUyMmUtMDVlZi00OWYyLWI3ZjEtOGVkZmE2M2IzODdiIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiOGExZDNlYTItNmEwOS00MDUwLWJkMzgtMTMxM2UyNzk1YWQ5Iiwic2lnbkRhdGUiOiIyMDI0LTEyLTI5VDEzOjQ5OjMwLjYyMFoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjJiYmUzZjBlLWE5OWEtNGY4Yi04MGRiLTZmODYxMzNmZTg4ZSIsImJpVG9rZW4iOiJhOTljZGM4Yy02ZmU2LTA5YTItMGFjOS05ZGNjNDQ0MjYyYTIiLCJzaXRlT3duZXJJZCI6IjJjMzg4ZjA1LWM1MDEtNGY1Ni04YTI4LWUwOGNlY2U4NDY3YyJ9&currency=JPY&currentCurrency=JPY&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%2290599551-d82b-49c3-aa11-0cf1c6b68c48%7C1%22%2C%22siteRevision%22%3A%2236%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22ja-jp%22%2C%22BSI%22%3A%2290599551-d82b-49c3-aa11-0cf1c6b68c48%7C1%22%7D&currentRoute=.%2Fservice-page%2Fexcel-access-%E3%83%9E%E3%82%AF%E3%83%AD%E9%96%8B%E7%99%BA&vsi=758897cf-573a-49ea-ae27-130b455f822c)
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# ローカルLLMをWindowsで動かしてみた話
+
+最近「ローカルLLM」という言葉に惹かれ、調べてみたところ、なんとChatGPTのような言語モデルをローカルPC上で構築できるということを知りました。 [@ksonoda](https://qiita.com/ksonoda) さんの投稿記事を参考にさせて頂きました。ありがとうございます。
+
+これまで、過去の投稿記事でRAG（Retrieval Augmented Generation）をローカルPC上で動かすことに成功していたので（下記の過去の投稿記事）、もしかしたら生成AIに関するすべての処理を自前で完結させることができるかもしれない、という期待が膨らんできました。
+
+そこで今回は、ローカルでのLLM構築に挑戦してみた体験談を共有したいと思います。
+
+詳しくはQiitaの記事をご覧ください [https://qiita.com/ogi\_kimura/items/45dffc2bc8334561a432](https://qiita.com/ogi_kimura/items/45dffc2bc8334561a432)
+
+![](https://static.wixstatic.com/media/2c388f_e4a495ec362e43e5b4ad51deed65f891~mv2.png/v1/fill/w_530,h_527,al_c,lg_1,q_85,enc_auto/2c388f_e4a495ec362e43e5b4ad51deed65f891~mv2.png)
+
+閲覧数：1回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+* * *
+
+# Webサービス開発
+
+Webサービス開発は、高額になると思っていませんか？
+
+30分30分Webミーティング
+
+* * *
+
+## サービス内容
+
+Webサービスを自社で作りたいのだが、高額で手も足も出ない...
+そう思われている方がいましたら、お気軽にご相談下さい。
+規模の大小に関わらず、Webサービス開発に関するどのようなことでも結構です。
+
+30分程度のWebでのお打合せをさせていただければと思っております。
+日程調整などさせて頂きますので、「問合せフォーム」もしくは「チャット」から、以下の内容を記載の上、ご連絡をお願いします。
+
+・名前（苗字のみでも結構です）
+・会社名（任意）
+・Web打ち合わせの複数候補日程（日付＋時間帯）
+
+■ お値段（参考）
+日々の体重計測結果登録サイト： 30,000円
+
+* * *
+
+## 連絡先
+
+090-5138-5456
+
+ogi\_kimura@icloud.com
+
+Japan, 大阪府豊中市上新田２丁目
+
+* * *
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# OCR vs OpenAIで表を解析してみた！精度の比較と課題を徹底検証
+
+先日、「OCRとOpenAIの比較」や「宝くじの番号をOCRで一括確認する方法」に関する記事を投稿しました。主に画像内の文字や数字の認識精度を比較した内容です。詳しくは以下の記事をご覧ください。
+
+今回は、表形式の画像に焦点を当てて、OCRとOpenAIの認識精度を比較してみようと思います。
+
+私自身は現在、別の業務の傍ら「特許情報検索システム」の開発を進めています。特許情報には文章だけでなく、図や数式、表なども含まれるため、それらの内容を正確に読み取る技術が必要です。特に、表の認識精度向上は非常に重要な課題です。この調査結果は今後のシステム開発の貴重な知見となると考えています。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/c6d85efae7641bde7041](https://qiita.com/ogi_kimura/items/c6d85efae7641bde7041)
+
+![](https://static.wixstatic.com/media/2c388f_08afe367fc2649ccbfece92573e87a05~mv2.png/v1/fill/w_740,h_459,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c388f_08afe367fc2649ccbfece92573e87a05~mv2.png)
+
+閲覧数：1回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+60件のコメント0
+
+2 いいね！ いいね！されていない記事2
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+30件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# LangChainを用いて大量ファイルをロードするVectorDBを作ってみた
+
+私が考えた構想は、フォルダの中の非定型ファイル群を一気に読込み、その情報を利用して生成AIに問いかけをするという仕組みでした。すなわちタイトルにある「大量ファイルをロードするVectorDB」の実現です。早速やってみようと思い、「Udemy」や「YouTube」を色々見てみましたが、「LangChain」を全く知らないことと、Pythonプログラミングもままならない状況でしたので、どこから手を付けてよいのか分からない状況でした。そんな中、LangChainに関するとってもわかりやすい書籍を見つけました。それが「LangChat完全入門」です。先ずはサンプルをそのままコーディングしてトライ＆エラーを繰り返し、解説を読みながら少しずつ理解してきました。
+
+ある程度コーディングをしていくと、「大量ファイルをロードするVectorDB」が作れるのでは？というようになりました。また、いろいろなWebサイトをみても、１つのPDFファイルやtextファイルを基にVectorDBへ情報を蓄積させるものはありましたが、大量ファイルを蓄積させるものは、探すことができませんでした。そこで、私の苦労の連続と共に「大量ファイルをロードするVectorDB」の作り方を執筆してはどうだろうと思ったのが今回のきっかけです。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/drafts/6f0bb486128832885138/edit](https://qiita.com/drafts/6f0bb486128832885138/edit)
+
+![](https://static.wixstatic.com/media/2c388f_04952b850683482086583744bff3416b~mv2.jpeg/v1/fill/w_740,h_414,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/2c388f_04952b850683482086583744bff3416b~mv2.jpeg)
+
+閲覧数：1回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+* * *
+
+# 生成AIシステム開発
+
+世の中では「生成AI」が活況となっておりますが、作業効率化のために社内でも展開してみたいとお思いでしょうか？
+
+30分30分Webミーティング
+
+* * *
+
+## サービス内容
+
+「生成AI」を社内に導入したいけれどもどうしたらよいか、どうせ高額になるんだろう、などとお思いの方は、先ずはお気軽にご相談下さい。
+規模の大小に関わらず、「生成AI」のことでしたらどのような悩みや課題でも結構です。
+
+30分程度のWebでのお打合せをさせていただければと思っております。
+日程調整などさせて頂きますので、「問合せフォーム」もしくは「チャット」から、以下の内容を記載の上、ご連絡をお願いします。
+
+・名前（苗字のみでも結構です）
+・会社名（任意）
+・Web打ち合わせの複数候補日程（日付＋時間帯）
+
+■ お値段（参考）
+生成AI画像認識を用いた電子請求書ファイル名付与： 30,000円
+
+* * *
+
+## 連絡先
+
+090-5138-5456
+
+ogi\_kimura@icloud.com
+
+Japan, 大阪府豊中市上新田２丁目
+
+* * *
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+Skip to Main Content
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+メニュー
+
+* * *
+
+# ITコンサルティング
+
+社内でITやシステムの刷新計画をしているけれども、費用の見積もりが非常に高くなってしまい、どうしたらよいか分からないという状況に陥ったことはございませんでしょうか？
+
+30分30分Webミーティング
+
+* * *
+
+## サービス内容
+
+社内でITやシステムの刷新計画を立てている場合は、お気軽にご相談下さい。
+規模の大小に関わらず、ITやシステムに関わるどのような悩みや課題でも結構です。
+
+30分程度のWebでのお打合せをさせていただければと思っております。
+日程調整などさせて頂きますので、「問合せフォーム」もしくは「チャット」から、以下の内容を記載の上、ご連絡をお願いします。
+
+・名前（苗字のみでも結構です）
+・会社名（任意）
+・Web打ち合わせの複数候補日程（日付＋時間帯）
+
+■ お値段（参考）
+社内システムをクラウドリフト： 100,000円
+
+* * *
+
+## 連絡先
+
+090-5138-5456
+
+ogi\_kimura@icloud.com
+
+Japan, 大阪府豊中市上新田２丁目
+
+* * *
+
+[iframe](https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-m4esauq8&viewerCompId=comp-m4esauq8&siteRevision=36&viewMode=site&deviceType=desktop&locale=en&tz=Asia%2FTokyo&regionalLanguage=ja&width=268&height=86&instance=Qo3Pd5VlD8ILlWkOixG-NMMPqxIlo2_DfxRQRQ7xgAw.eyJpbnN0YW5jZUlkIjoiMjM4MWUyMmUtMDVlZi00OWYyLWI3ZjEtOGVkZmE2M2IzODdiIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiOGExZDNlYTItNmEwOS00MDUwLWJkMzgtMTMxM2UyNzk1YWQ5Iiwic2lnbkRhdGUiOiIyMDI0LTEyLTI5VDEzOjQ5OjM0LjU4MVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjUyNGJmY2YxLTQyZTQtNGZkMi04OGQ4LWM4NTk2YmRkMDJkYyIsImJpVG9rZW4iOiJhOTljZGM4Yy02ZmU2LTA5YTItMGFjOS05ZGNjNDQ0MjYyYTIiLCJzaXRlT3duZXJJZCI6IjJjMzg4ZjA1LWM1MDEtNGY1Ni04YTI4LWUwOGNlY2U4NDY3YyJ9&currency=JPY&currentCurrency=JPY&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%22412bc988-6477-4a25-abbc-461f132debaa%7C1%22%2C%22siteRevision%22%3A%2236%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22ja-jp%22%2C%22BSI%22%3A%22412bc988-6477-4a25-abbc-461f132debaa%7C1%22%7D&currentRoute=.%2Fservice-page%2Fit%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0&vsi=510381bc-ee95-4542-89b0-67575a436343)
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+* * *
+
+# RPA支援
+
+社内の「RPA」は上手く浸透してますでしょうか？
+
+30分30分Webミーティング
+
+* * *
+
+## サービス内容
+
+「RPA」を社内に導入したら効率化ができて楽になる...
+そんなことを言ったコンサルタントがいましたが、本当に「RPA」は浸透できましたでしょうか？
+「RPA」を導入したが上手く浸透しないなど、お困りごとがございましたらお気軽にご相談下さい。
+規模の大小に関わらず、「RPA」に関するどのような悩みや課題でも結構です。
+
+30分程度のWebでのお打合せをさせていただければと思っております。
+日程調整などさせて頂きますので、「問合せフォーム」もしくは「チャット」から、以下の内容を記載の上、ご連絡をお願いします。
+
+・名前（苗字のみでも結構です）
+・会社名（任意）
+・Web打ち合わせの複数候補日程（日付＋時間帯）
+
+■ お値段（参考）
+RPA作成支援： 10,000円
+
+* * *
+
+## 連絡先
+
+090-5138-5456
+
+ogi\_kimura@icloud.com
+
+Japan, 大阪府豊中市上新田２丁目
+
+* * *
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# LangChainとNeo4jでシステム連携図を自動生成する方法
+
+社内でシステムの管理をしていると、各システムの連携を図や表で表す必要が出てくることがよくあります。しかし、人間は細かい管理には向いておらず、定期的なメンテナンスや最新化、そして統一された粒度（レベル）の管理を続けるのは非常に困難です。
+
+そんな中で、最近「Neo4j」というグラフ描画ツールの存在を知りました。「LangChain」と「Neo4j」を使って効率的にグラフを作成する記事を目にし、これが私が求めていた「システム連携図の自動生成ツール」になるのではないかと考えました。そこで今回は、「LangChain」と「Neo4j」を実際に試してみました。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/1e03b29bb245b553be26](https://qiita.com/ogi_kimura/items/1e03b29bb245b553be26)
+
+![](https://static.wixstatic.com/media/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg/v1/fill/w_740,h_492,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg)
+
+閲覧数：0回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+* * *
+
+# 経理作業の効率化
+
+「インボイス」や「電子帳簿保存法」に疲れていませんか？
+
+30分30分Webミーティング
+
+* * *
+
+## サービス内容
+
+経理作業周りは、「インボイス」や「電子帳簿保存法」などどんどん複雑になってきています。それに伴い経理作業の負担がおおくなっているという調査結果もございます。
+経理周りでお困りごとがございましたら、お気軽にご相談下さい。
+
+30分程度のWebでのお打合せをさせていただければと思っております。
+日程調整などさせて頂きますので、「問合せフォーム」もしくは「チャット」から、以下の内容を記載の上、ご連絡をお願いします。
+
+・名前（苗字のみでも結構です）
+・会社名（任意）
+・Web打ち合わせの複数候補日程（日付＋時間帯）
+
+■ お値段（参考）
+電子請求書ファイル自動生成： 30,000円
+
+* * *
+
+## 連絡先
+
+090-5138-5456
+
+ogi\_kimura@icloud.com
+
+Japan, 大阪府豊中市上新田２丁目
+
+* * *
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# ChatGPT/LangChainによるチャットシステム構築\[実践\]入門のプログラムを試す
+
+現在私は「LangChain」のプログラムに沼っており（若い人が使う言葉ですね）、今回は「ChatGPT/LangChainによるチャットシステム構築\[実践\]入門」を読んで、いろいろプログラミングをして楽しむことにしました。　今まで私は「製造業の生産管理システム」や「プログラム言語の構文解析システム」など、いろいろなプログラミングをしてきたのですが、生成AI分野のように完全な正解が無く、常にアップデートしていくスタンスのものは初めてで、とても興味深いです。
+
+この書籍通りにプログラミングを進めてみたのですが、何度も失敗を繰り返し、何度も心が折れそうになりました。。。これから生成AI分野を目指す方々がこの書籍を読んで楽しくプログラミングができる一助になればと思い、記事の投稿をしました。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/0559f7d8d91c9a010eda](https://qiita.com/ogi_kimura/items/0559f7d8d91c9a010eda)
+
+![](https://static.wixstatic.com/media/2c388f_f36ff080af054555bed1c171704d94a4~mv2.jpeg/v1/fill/w_590,h_704,al_c,lg_1,q_85,enc_auto/2c388f_f36ff080af054555bed1c171704d94a4~mv2.jpeg)
+
+閲覧数：0回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+Skip to Main Content
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# OCRとOpenAIを比較してみた
+
+情報システム部にいると、「OCRを試してみたい」とか「紙の帳票はやめないが、効率化を図りたい」などといろいろな引き合いが舞い込んできます。そのためOCRを小さなプロジェクトやPoCで試すことも多いのですが、文字認識の精度のせいなのか、ほとんどは立ち消えになってしまっています。
+
+一方で、最近リリースされたgpt-4oは画像認識が可能であり、OCRよりも精度が高いのではないか？と思い始めました。
+
+今回は、OCRとgpt-4o(お金がないので正確にはgpt-4o-mini）の読み取り精度を確認したいと思います。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/f6b8e3426349767e8f7b](https://qiita.com/ogi_kimura/items/f6b8e3426349767e8f7b)
+
+![](https://static.wixstatic.com/media/2c388f_efc782218b30405793a86734541a1edc~mv2.png/v1/fill/w_530,h_527,al_c,lg_1,q_85,enc_auto/2c388f_efc782218b30405793a86734541a1edc~mv2.png)
+
+閲覧数：0回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[iframe](https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-m4esauq8&viewerCompId=comp-m4esauq8&siteRevision=36&viewMode=site&deviceType=desktop&locale=en&tz=Asia%2FTokyo&regionalLanguage=ja&width=268&height=86&instance=TrNRMeZpDSJbbb_ey_eQpwwjdmoTXyV6_n7qGED4jgE.eyJpbnN0YW5jZUlkIjoiMjM4MWUyMmUtMDVlZi00OWYyLWI3ZjEtOGVkZmE2M2IzODdiIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiOGExZDNlYTItNmEwOS00MDUwLWJkMzgtMTMxM2UyNzk1YWQ5Iiwic2lnbkRhdGUiOiIyMDI0LTEyLTI5VDEzOjQ5OjM4LjIwM1oiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjVjMGRjZWNmLTIwZGMtNDA0My04MDQzLTdhOWU3ZWE3YjMzMCIsImJpVG9rZW4iOiJhOTljZGM4Yy02ZmU2LTA5YTItMGFjOS05ZGNjNDQ0MjYyYTIiLCJzaXRlT3duZXJJZCI6IjJjMzg4ZjA1LWM1MDEtNGY1Ni04YTI4LWUwOGNlY2U4NDY3YyJ9&currency=JPY&currentCurrency=JPY&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%2284f0f27b-ecdf-419a-a479-87f7dd5e30ea%7C1%22%2C%22siteRevision%22%3A%2236%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22ja-jp%22%2C%22BSI%22%3A%2284f0f27b-ecdf-419a-a479-87f7dd5e30ea%7C1%22%7D&currentRoute=.%2Fpost%2Focr%E3%81%A8openai%E3%82%92%E6%AF%94%E8%BC%83%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F&vsi=696a2794-d287-4530-a1f2-0d02176a8183)
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+bottom of page
+top of page
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 4分
+
+# Excelマクロで仕事効率化（初心者向け）
+
+私の勤務先では、ほぼ100%の社員がプログラミングを書くことができません。それ自体はそれほど大きな問題ではないのですが、社員が皆プログラムを書けないことで、「ラストONEマイル」(※)に苦労しており、多くの方々が毎日「Excel」や「Word」と格闘する羽目になっています。社員の多くが、数十回もデータのコピー＆ペーストを繰り返したり、Excelに大量のセル計算式を貼付けてファイルが重くなったり、合計値を出すセルの計算式で１セルだけ範囲から漏れていて、後でやり直しになったり（リワーク）という状況を多く見てきました。「DX」や「AI」が叫ばれている昨今ですが、現状はそれからは程遠く、ほとんどが泥臭い単純作業です。　一つ具体的な例を挙げると、社内の月次締め処理を行う時、社員が夜遅くまで事務所に残って、データの目検チェックやデータ貼付けで大変苦しそうでした。先日はその手作業の誤りが元で、お客様に対して過大請求や過小請求をしてしまい、迷惑をかけていました。その社員は夜遅くまで責任感を持って一所懸命頑張ったのに、全く報われていないなぁと思いました。そうこうする内に、その社員のモチベーションは劇的に下がり、退職してしまいました。そりゃそうですよね、私でも同じ状況ならばそうなっちゃいます。　　この様な状況に至ったのは、会社で働く私たち自身の責任もあると感じています。今までにいろいろな単純作業が自動化されてきました。例えば、現在ではプレゼンテーションをOHP（知ってますか？）を使ってやる方はいないでしょう。ほとんどがPowerPointを使うかと思います。また、FAXもほとんどなくなってきており、電子メールで簡単に対応できるようになってきています。そのような恩恵を受けた私たちは、より高度で難易度の高い作業に時間を割かなければならなくなります。どんどん私たちがやるべき作業は高度な作業しかなくなるためです。私の勤務先では、社員のほとんどが「自動化をしたい！」「効率よい作業をしたい！」と言ってそれを高額なアプリケーション開発などで実現するのですが、裏を返すと効率化で得た余剰時間は、今以上価値ある高度な作業にシフトする必要があるのです。日本で働いている社員はそのことをほとんど理解していません。日本人は他国と比較して、高校や大学の卒業後に勉強やスキルアップをするために時間を割く人の割合が著しく低いという調査結果もあるようです。高校や大学に入ってしまえばあとは大丈夫、と安心してしまっているのかもしれません。私たちは自分が楽しく心豊かに生き続けるために、本気で次のステップのために学び続けなければならないと思います。
+
+日々の作業の効率化を図れる持つべき技能の１つが「プログラミング」だと思っています。かくいう私も以前は単純作業に追われて、次のステップに向けた勉強など全くできなかった時期もありました。ただ、現在では「プログラミング」により単純作業のほとんどを自動化することができるようになり、自身の記事を投稿したり、副業をしたりして、仕事を楽しみながら生きられるようになりました。　　「プログラミングを学べばええやん！」と簡単に思うかもしれませんが、最初は非常に多くのエネルギーを要します。私は大学生の時までプログラミングをしたことがなかったのですが、最初はプログラミングに関する単語や意味を理解できず苦労しましたし、理解できたとしても「立体的に」言っていることを理解できなかったため、応用が利かない状況に苦しんでいました。　そんな苦しい期間が長く続くのであれば、誰だってプログラミングの習得はやめますよね・・・　　このような状況を加味して、「プログラミングを知らない初心者」「仕事で単純作業が多くて困っている人」「少しでも人生が楽になりたい人」が少しでも人生が楽しく・明るくなってほしいということで、連載記事を書くことにしました。
+
+※ ここで言う「ラストONEマイル」は、システムと利用者の最後の区間のことを意味します。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/2bd4743c529082e76e96](https://qiita.com/ogi_kimura/items/2bd4743c529082e76e96)
+
+![](https://static.wixstatic.com/media/2c388f_fde560c4b2b74213851e68a1b71d4251~mv2.jpeg/v1/fill/w_584,h_291,al_c,lg_1,q_80,enc_auto/2c388f_fde560c4b2b74213851e68a1b71d4251~mv2.jpeg)
+
+閲覧数：0回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+bottom of page
+top of page
+
+Skip to Main Content
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 3分
+
+# 電子化対応を支援する！請求書自動整理ツールのご紹介
+
+\# 最近思うこと
+
+2024年1月に電子帳簿保存法が改定され、領収書や請求書を紙ではなく電子データのまま保存できるようになりました。さらに、同年10月には郵便料金の値上げも予定されています。この変化により、多くの企業では経営層や他部署から「なぜ電子化に対応していないのか？」という声が上がり、情報システム部門が大規模なシステム導入を迫られることが予想されます。こうしたシステムには数百万円から数千万円の投資が必要で、導入の際には費用対効果が重要なポイントとなります。
+
+ただ、電子化によって削減される作業時間を正確に定量化するのは難しく、その効果を見える形にすることは簡単ではありません。削減された業務時間を、よりクリエイティブで価値の高いタスクに活用することが理想ですが、日本全体として、就職後にスキルアップに取り組む意識が低い傾向があり、システム導入により余剰となった時間を効果的に使いこなせないケースが多いのが現実です。これでは、せっかく業務効率化を進めても、その効果が十分に活かされません。これは、「パーキンソンの法則」が示すように、与えられた時間に合わせて仕事が膨張してしまうことが原因です。
+
+そのため、システム導入の成功には、人材のリスキリングやスキルアップも不可欠です。優れた人材がいなければ、どんなにシステムを導入しても真の効果は得られないでしょう。たとえば、「優秀な100名のプロジェクト」を成功させるために、10万匹の猿や30万人の幼稚園児を集めても意味がないように、単純作業だけをこなす社員がどれだけ多くいても、質の高い成果は期待できません。つまり、会社にとって重要なのは、人数ではなく、いかに優秀な人材を確保するかという点です。
+
+\# 背景・目的
+
+さて、ここまでが私の最近思うことなのですが、こうした変化により、経理担当者の業務はむしろ増えているのではないかと感じています。特に、電子ファイルで送信される請求書は、請求元でも保存が必要で、毎月大量のPDFファイルを保管することになります。そのファイル整理に困っているという話をよく耳にします。そこで今回は、請求書の電子ファイルから自動的にファイル名を付けるプログラムをご紹介します。私独自の調査なのですが、OCRを使っても精度の高い処理ができない場合が多いことが分かりました。そこで今回は画像認識ができる\`gpt-4o-mini\`のAPIを試してみたいと思います。
+
+さらに、プログラミングに慣れていない方や、コマンドライン操作が苦手な方でも簡単に使えるよう、Excelから実行できる仕組みも用意しました。これにより、より多くの人が効率よく作業を進められるようになることを期待しています。
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/ogi\_kimura/items/d1578a8bedc53404f8ef](https://qiita.com/ogi_kimura/items/d1578a8bedc53404f8ef)
+
+![](https://static.wixstatic.com/media/2c388f_fd8873fa6a294b8bb074092dc5077f9b~mv2.png/v1/fill/w_484,h_680,al_c,lg_1,q_85,enc_auto/2c388f_fd8873fa6a294b8bb074092dc5077f9b~mv2.png)
+
+閲覧数：0回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[iframe](https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-m4esauq8&viewerCompId=comp-m4esauq8&siteRevision=36&viewMode=site&deviceType=desktop&locale=en&tz=Asia%2FTokyo&regionalLanguage=ja&width=268&height=86&instance=DINYqxC4a2cG6rGg3NHuMKeXTamZ2viUfgX6zCJ8vJw.eyJpbnN0YW5jZUlkIjoiMjM4MWUyMmUtMDVlZi00OWYyLWI3ZjEtOGVkZmE2M2IzODdiIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiOGExZDNlYTItNmEwOS00MDUwLWJkMzgtMTMxM2UyNzk1YWQ5Iiwic2lnbkRhdGUiOiIyMDI0LTEyLTI5VDEzOjQ5OjQxLjQ4OFoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6ImQ1Njc2YmRkLTlkMGQtNDk3YS05OWVhLTg5MTY3ZWRjZjllOCIsImJpVG9rZW4iOiJhOTljZGM4Yy02ZmU2LTA5YTItMGFjOS05ZGNjNDQ0MjYyYTIiLCJzaXRlT3duZXJJZCI6IjJjMzg4ZjA1LWM1MDEtNGY1Ni04YTI4LWUwOGNlY2U4NDY3YyJ9&currency=JPY&currentCurrency=JPY&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%224a6517ad-e6f2-42a7-8c4b-7f3a421047f8%7C1%22%2C%22siteRevision%22%3A%2236%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22ja-jp%22%2C%22BSI%22%3A%224a6517ad-e6f2-42a7-8c4b-7f3a421047f8%7C1%22%7D&currentRoute=.%2Fpost%2F%E9%9B%BB%E5%AD%90%E5%8C%96%E5%AF%BE%E5%BF%9C%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%EF%BC%81%E8%AB%8B%E6%B1%82%E6%9B%B8%E8%87%AA%E5%8B%95%E6%95%B4%E7%90%86%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B&vsi=f82123f4-ae7d-41c8-9744-649900adb7ca)
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+bottom of page
+top of page
+
+Skip to Main Content
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# 宝くじの番号をOCRで一括確認
+
+今回は、宝くじ券の番号をOCRで認識させるプログラムを紹介します。私事で恐縮なのですが、先日「宝くじ記念くじ」を150枚買ったのですが、券を1つ1つ確認すると歳のせいか手がカサカサになり、紙で指が切れて血が出てしまいました。
+
+OCRを使って当選した券を瞬時に見分けられないか、ということで、宝くじ券番号を一括で大量に読み込んで、当選した宝くじ券を判定するプログラムを作成しました。「そんなこと、券売所の機械で店員さんに確認してもらえばいいのに。」と思う方もいるかと思いますが、そこはご愛敬ということで・・・
+
+詳しくはQiitaの記事をご覧ください
+
+[https://qiita.com/drafts/d2dd5466f3e1e125f6e4/edit](https://qiita.com/drafts/d2dd5466f3e1e125f6e4/edit)
+
+![](https://static.wixstatic.com/media/2c388f_8ce87195c6bd4121b66af1483aa35a27~mv2.jpeg/v1/fill/w_740,h_197,al_c,lg_1,q_80,enc_auto/2c388f_8ce87195c6bd4121b66af1483aa35a27~mv2.jpeg)
+
+閲覧数：1回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+120件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+90件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+120件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+## コメント
+
+* * *
+
+コメントを追加…コメントを追加…
+
+[iframe](https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-m4esauq8&viewerCompId=comp-m4esauq8&siteRevision=36&viewMode=site&deviceType=desktop&locale=en&tz=Asia%2FTokyo&regionalLanguage=ja&width=268&height=86&instance=hINEWHyNI4H4BvVZrvAB_pMPEaSab7rqON9DIY_zTEo.eyJpbnN0YW5jZUlkIjoiMjM4MWUyMmUtMDVlZi00OWYyLWI3ZjEtOGVkZmE2M2IzODdiIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiOGExZDNlYTItNmEwOS00MDUwLWJkMzgtMTMxM2UyNzk1YWQ5Iiwic2lnbkRhdGUiOiIyMDI0LTEyLTI5VDEzOjQ5OjM5Ljg4NloiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjM1MTM4YzQ1LWQxNDktNDJkZC1iZjMxLTY3NjhjYjdlMzgwZCIsImJpVG9rZW4iOiJhOTljZGM4Yy02ZmU2LTA5YTItMGFjOS05ZGNjNDQ0MjYyYTIiLCJzaXRlT3duZXJJZCI6IjJjMzg4ZjA1LWM1MDEtNGY1Ni04YTI4LWUwOGNlY2U4NDY3YyJ9&currency=JPY&currentCurrency=JPY&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%22f1f55829-06f2-41c5-93a9-686f90b23547%7C1%22%2C%22siteRevision%22%3A%2236%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22ja-jp%22%2C%22BSI%22%3A%22f1f55829-06f2-41c5-93a9-686f90b23547%7C1%22%7D&currentRoute=.%2Fpost%2F%E5%AE%9D%E3%81%8F%E3%81%98%E3%81%AE%E7%95%AA%E5%8F%B7%E3%82%92ocr%E3%81%A7%E4%B8%80%E6%8B%AC%E7%A2%BA%E8%AA%8D&vsi=43af3a3a-2a4f-4fdb-bbbd-203fc2784515)
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+bottom of page
+top of page
+
+Skip to Main Content
+
+### NPWITYS
+
+##### ​日本をITでよくする
+
+メニュー
+
+- [All Posts](https://www.npwitys.com/blog)
+
+![執筆者の写真](https://lh3.googleusercontent.com/a/ACg8ocICrfWiKQ3iEgruv4RFZUWn9HBMKdmI9oeLGMJwBjeF-aiXDw%3Ds96-c)たろう 木村
+12月8日読了時間: 1分
+
+# ローカルLLMの進化：Llama3.2で特許検索システムを再構築！
+
+今回は、「ローカルLLM」にリベンジします。以前、ローカル環境にLLMを構築した際、その過程を記事にまとめました。しかし、結果として応答に10分以上かかることが多く、実用には程遠い状況でした。（記事公開後も再度トライしてみましたが、1時間以上応答がないことも珍しくありませんでした…）
+
+諦めかけていたところ、 [@coitate](https://qiita.com/coitate) さんの投稿を見て、もう一度挑戦してみることにしました。Meta社から **Llama3.2** が発表され、さらに軽量化されたという記事を読んだからです。 [@coitate](https://qiita.com/coitate) さん、素晴らしい投稿ありがとうございます！
+
+詳しくはQiitaの記事をご覧ください [https://qiita.com/ogi\_kimura/items/7e2e00049ba14aca716a](https://qiita.com/ogi_kimura/items/7e2e00049ba14aca716a)
+
+![](https://static.wixstatic.com/media/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg/v1/fill/w_740,h_492,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c388f_9caa1612fc1a464cb34d999a4a68e703~mv2.jpeg)
+
+閲覧数：2回0件のコメント
+
+いいね！されていない記事
+
+## 最新記事
+
+[すべて表示](https://www.npwitys.com/blog)
+
+[![](https://static.wixstatic.com/media/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_0fe8da195134469fa22025f14d6d4536~mv2.png)](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+[YOLOで6枚の画像から奇跡の6,144枚データ拡張とその壮絶な結末](https://www.npwitys.com/post/yoloで6枚の画像から奇跡の6-144枚データ拡張とその壮絶な結末)
+
+80件のコメント0
+
+3 いいね！ いいね！されていない記事3
+
+[![](https://static.wixstatic.com/media/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_1cb9b54d1f35419a867fc8f3c4971f1b~mv2.png)](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+[Replitで10分でWebシステムを作ろう](https://www.npwitys.com/post/replitで10分でwebシステムを作ろう)
+
+40件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[![](https://static.wixstatic.com/media/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png/v1/fill/w_288,h_162,al_c,q_85,enc_auto/2c388f_35842373107d40f493c69bbbee1c4800~mv2.png)](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+[水入り？空っぽ？コップの中身をYOLOが画像判定！](https://www.npwitys.com/post/水入り？空っぽ？コップの中身をyoloが画像判定！)
+
+70件のコメント0
+
+1 いいね！ いいね！されていない記事1
+
+[iframe](https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-m4esauq8&viewerCompId=comp-m4esauq8&siteRevision=36&viewMode=site&deviceType=desktop&locale=en&tz=Asia%2FTokyo&regionalLanguage=ja&width=268&height=86&instance=gUSk_KTN39fCwLxt37aNjoBKptdqEAa_qUM-T1lcyyo.eyJpbnN0YW5jZUlkIjoiMjM4MWUyMmUtMDVlZi00OWYyLWI3ZjEtOGVkZmE2M2IzODdiIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiOGExZDNlYTItNmEwOS00MDUwLWJkMzgtMTMxM2UyNzk1YWQ5Iiwic2lnbkRhdGUiOiIyMDI0LTEyLTI5VDEzOjQ5OjQxLjM2NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6ImRlYTE2ZTRmLTU1N2MtNGUxNy04OTQ2LWIzMTNiMDQ5MTViMCIsImJpVG9rZW4iOiJhOTljZGM4Yy02ZmU2LTA5YTItMGFjOS05ZGNjNDQ0MjYyYTIiLCJzaXRlT3duZXJJZCI6IjJjMzg4ZjA1LWM1MDEtNGY1Ni04YTI4LWUwOGNlY2U4NDY3YyJ9&currency=JPY&currentCurrency=JPY&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%2292ba01f7-d0df-4c4c-b5e7-9e444326c3ad%7C1%22%2C%22siteRevision%22%3A%2236%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22ja-jp%22%2C%22BSI%22%3A%2292ba01f7-d0df-4c4c-b5e7-9e444326c3ad%7C1%22%7D&currentRoute=.%2Fpost%2F%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%ABllm%E3%81%AE%E9%80%B2%E5%8C%96%EF%BC%9Allama3-2%E3%81%A7%E7%89%B9%E8%A8%B1%E6%A4%9C%E7%B4%A2%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E5%86%8D%E6%A7%8B%E7%AF%89%EF%BC%81&vsi=78a89077-2c3f-40c3-a18c-089a2349ee73)
+
+## [NPWITYS](https://www.npwitys.com)
+
+#### ​日本をITでよくする
+
+TEL: 090-5138-5456
+
+[ogi\_kimura@icloud.com](mailto:info@mysite.com)
+
+大阪府豊中市上新田２丁目
+
+4-60-303
+
+ニュースレターに登録
+
+メールアドレスを入力
+
+登録
+
+お問い合わせ
+
+Close
+
+- [ホーム](https://www.npwitys.com)
+
+
+bottom of page
